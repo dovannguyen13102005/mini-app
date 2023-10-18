@@ -1,0 +1,15 @@
+﻿  mini_app.cpp
+D:\code\product code\mini_app\mini_app\mini_app.cpp(62,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(68,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(72,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(76,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(79,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(112,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(115,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(228,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(249,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(260,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(272,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(277,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\product code\mini_app\mini_app\mini_app.cpp(289,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  mini_app.vcxproj -> D:\code\product code\mini_app\x64\Debug\mini_app.exe
